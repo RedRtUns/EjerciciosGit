@@ -4,5 +4,8 @@ public class Main {
         System.out.println("William David Suarez Orjuela");
         System.out.println("Estudiante de Ingenieria en sistemas");
 
+        System.out.println("Git switch -c Nombre nuevo de la rama");
+        System.out.println("Git checkout main ");
+        System.out.println("Git Pull origin main");
     }
 }
